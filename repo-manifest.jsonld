@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asteroid-team/asteroid/commit/c15708a04d3d28e9a1cd50553c456299dbc6d236",
       "git:hexsha": "c15708a04d3d28e9a1cd50553c456299dbc6d236",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asteroid-team/asteroid/commit/38a8389bbcc7dbad2bd700cf46907a447814ca34",
